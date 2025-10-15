@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: Github-pages-deploy-from-github
-  title: Deploy to Github pages from GitHub Repo secondone
+  title: Integration
   description: Create and deploy a Docker container from a GitHub repository URLsecond.
 spec:
   owner: user:guest
