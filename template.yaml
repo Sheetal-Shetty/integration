@@ -98,3 +98,10 @@ spec:
           input:
             url: https://github.com/Sheetal-Shetty/gitnode
             targetPath: .
+
+      else:
+        - action: fetch:template
+          id: docker-template
+          input:
+            url: https://github.com/Meghana-shetty/Backstage_docker
+            targetPath: .
